@@ -185,7 +185,7 @@ section {
     color: #fff;
     position: absolute;
     bottom: 18%;
-    right: 20%;
+    right: 18%;
     z-index: 0;
     -webkit-text-stroke: 2px var(--dark-color);
     cursor: default;
